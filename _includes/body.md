@@ -1,7 +1,20 @@
+In current biomedical research, fluorescence correlation spectroscopy (FCS) is  applied
+to characterize molecular dynamic processes in vitro and in living cells.  Commercial
+FCS setups only permit data analysis that is limited to  a specific instrument by
+the use of in-house file formats or a  finite number of implemented correlation
+model functions. PyCorrFit is a general-purpose FCS evaluation software that,
+amongst other formats, supports the established Zeiss ConfoCor3 ~.fcs  file format.
+PyCorrFit comes with several built-in model functions, covering a wide range of
+applications in standard confocal FCS. In addition, it contains equations dealing
+with different excitation geometries like total internal reflection (TIR). For more
+information, visit the official homepage at
+[http://pycorrfit.craban.de](http://pycorrfit.craban.de).
+
+
 ** Supported Operating Systems: **
 - Windows XP/7 (binary and source code)  
 - Ubuntu Linux 12.04 (binary and source code) 
-- MacOSx 10.6+ (binary/experimental and source code) 
+- MacOSx 10.6+ (binary and source code) 
 - Any other system with a Python 2.7 installation (source code only) 
 
 ** Supported Filetypes: **
@@ -12,7 +25,7 @@
 
 ** Fitting: **
 - Least squares fit using the Levenberg-Marquard algorithm
--  Weighted fitting with standard deviation
+- Weighted fitting with standard deviation
 - Parameter error estimation 
 - Large set of pre-defined model functions 
 - Import of user-defined model functions 
@@ -37,38 +50,32 @@
 <table>
 <tr>
   <td  valign="top">Desktop</td>
-  <td>[
-    ![](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png)</td>
+  <td>[ ![](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png)</td>
 </tr>
 
 <tr>
   <td  valign="top">Main  window</td>
-  <td>[
-      ![](./images/Screenshot_Main.png) ](./images/Screenshot_Main.png)</td>
+  <td>[ ![](./images/Screenshot_Main.png) ](./images/Screenshot_Main.png)</td>
 </tr>
 
 <tr>
   <td  valign="top">Background correction</td>
-  <td>[
-      ![](./images/Screenshot_Background_correction.png) ](./images/Screenshot_Background_correction.png)</td>
+  <td>[ ![](./images/Screenshot_Background_correction.png) ](./images/Screenshot_Background_correction.png)</td>
 </tr>
 
 <tr>
   <td  valign="top">Graphics  output  (matplotlib)</td>
-  <td>[
-      ![](./images/Screenshot_Graphics_output.png) ](./images/Screenshot_Graphics_output.png)</td>
+  <td>[ ![](./images/Screenshot_Graphics_output.png) ](./images/Screenshot_Graphics_output.png)</td>
 </tr>
 
 <tr>
   <td  valign="top">Curve  selection</td>
-  <td>[
-      ![](./images/Screenshot_Select_curves.png) ](./images/Screenshot_Select_curves.png)</td>
+  <td>[ ![](./images/Screenshot_Select_curves.png) ](./images/Screenshot_Select_curves.png)</td>
 </tr>
 
 <tr>
   <td  valign="top">Trace  view</td>
-  <td>[
-      ![](./images/Screenshot_Trace_view.png) ](./images/Screenshot_Trace_view.png)</td>
+  <td>[ ![](./images/Screenshot_Trace_view.png) ](./images/Screenshot_Trace_view.png)</td>
 </tr>
 
 </table>
