@@ -53,7 +53,7 @@ color: #000000;
 
 
 .wrapper {
-  width:860px;
+  width:700px;
   margin:0 auto;
 }
 
@@ -73,7 +73,7 @@ section {
 
 
 footer {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   bottom:50px;
