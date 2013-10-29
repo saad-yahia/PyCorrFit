@@ -6,11 +6,7 @@ model functions. PyCorrFit is a general-purpose FCS evaluation software that,
 amongst other formats, supports the established Zeiss ConfoCor3 ~.fcs  file format.
 PyCorrFit comes with several built-in model functions, covering a wide range of
 applications in standard confocal FCS. In addition, it contains equations dealing
-with different excitation geometries like total internal reflection (TIR). For more
-information, visit the official homepage at
-
-[http://pycorrfit.craban.de](http://pycorrfit.craban.de).
-
+with different excitation geometries like total internal reflection (TIR).
 
 #### Supported Operating Systems:
 - Windows XP/7 (binary and source code)  
@@ -49,48 +45,14 @@ information, visit the official homepage at
 #### Screenshots:
 
 
-<table>
 
-    <tr>
-      <td  valign="top">Desktop</td>
-      <td>[
-        ![](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png)</td>
-    </tr>
+[ ![scrot](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png "Desktop")
 
-    <tr>
-      <td  valign="top">Main 
- window</td>
-      <td>[
-          ![](./images/Screenshot_Main.png) ](./images/Screenshot_Main.png)</td>
-    </tr>
 
-    <tr>
-      <td  valign="top">Background 
-correction</td>
-      <td>[
-          ![](./images/Screenshot_Background_correction.png) ](./images/Screenshot_Background_correction.png)</td>
-    </tr>
+[ ![scrot](./images/Screenshot_Main.png) ](./images/Screenshot_Main.png "Background correction")
 
-    <tr>
-      <td  valign="top">Graphics 
- output 
- (matplotlib)</td>
-      <td>[
-          ![](./images/Screenshot_Graphics_output.png) ](./images/Screenshot_Graphics_output.png)</td>
-    </tr>
+[ ![scrot](./images/Screenshot_Graphics_output.png) ](./images/Screenshot_Graphics_output.png "Graphics  output  (matplotlib)")
 
-    <tr>
-      <td  valign="top">Curve 
- selection</td>
-      <td>[
-          ![](./images/Screenshot_Select_curves.png) ](./images/Screenshot_Select_curves.png)</td>
-    </tr>
+[ ![scrot](./images/Screenshot_Select_curves.png) ](./images/Screenshot_Select_curves.png "Curve  selection")
 
-    <tr>
-      <td  valign="top">Trace 
- view</td>
-      <td>[
-          ![](./images/Screenshot_Trace_view.png) ](./images/Screenshot_Trace_view.png)</td>
-    </tr>
-
-</table>
+[ ![scrot](./images/Screenshot_Trace_view.png) ](./images/Screenshot_Trace_view.png "Trace  view")
