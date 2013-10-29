@@ -1,4 +1,4 @@
-In current biomedical research, fluorescence correlation spectroscopy (FCS) is  applied
+﻿In current biomedical research, fluorescence correlation spectroscopy (FCS) is  applied
 to characterize molecular dynamic processes in vitro and in living cells.  Commercial
 FCS setups only permit data analysis that is limited to  a specific instrument by
 the use of in-house file formats or a  finite number of implemented correlation
@@ -12,26 +12,26 @@ information, visit the official homepage at
 [http://pycorrfit.craban.de](http://pycorrfit.craban.de).
 
 
-** Supported Operating Systems: **
+#### Supported Operating Systems:
 - Windows XP/7 (binary and source code)  
 - Ubuntu Linux 12.04 (binary and source code) 
 - MacOSx 10.6+ (binary and source code) 
 - Any other system with a Python 2.7 installation (source code only) 
 
-** Supported Filetypes: **
-- ALV-6000 correlator files (*.ALV) (single and multiple runs / tested in autocorrelation mode) 
-- Confocor3 files (*.fcs)
-- Correlator.com (*.SIN): Those are files usually created by e.g. Flex02-01D correlators.
-- PyCorrFit (*.csv): This is a simple .csv file format.        
+#### Supported Filetypes:
+- ALV-6000 correlator files (.ALV) (single and multiple runs / tested in autocorrelation mode) 
+- Confocor3 files (.fcs)
+- Correlator.com (.SIN): Those are files usually created by e.g. Flex02-01D correlators.
+- PyCorrFit (.csv): This is a simple .csv file format.        
 
-** Fitting: **
+#### Fitting:
 - Least squares fit using the Levenberg-Marquard algorithm
 - Weighted fitting with standard deviation
 - Parameter error estimation 
 - Large set of pre-defined model functions 
 - Import of user-defined model functions 
 
-** Tools and Features: **
+#### Tools and Features:
 - Averaging of curves
 - Background correction
 - Batch processing
@@ -40,13 +40,14 @@ information, visit the official homepage at
 - Parameter simulation
 - Session management
 
-** Verbosity: **
+#### Verbosity:
 - Includes python shell access
 - Documented and structured source code
 - Information window shows all parameters of a measurement
 - Update helper checks for new program version
 
-** Screenshots: **
+#### Screenshots:
+
 
 <table>
 
