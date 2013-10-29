@@ -15,10 +15,10 @@ with different excitation geometries like total internal reflection (TIR).
 - Any other system with a Python 2.7 installation (source code only) 
 
 #### Supported Filetypes:
-- ALV-6000 correlator files (.ALV) (single and multiple runs / tested in autocorrelation mode) 
-- Confocor3 files (.fcs)
-- Correlator.com (.SIN): Those are files usually created by e.g. Flex02-01D correlators.
-- PyCorrFit (.csv): This is a simple .csv file format.        
+- ALV-6000 correlator files (~.ALV) (single and multiple runs / tested in autocorrelation mode) 
+- Confocor3 files (~.fcs)
+- Correlator.com (~.SIN): Those are files usually created by e.g. Flex02-01D correlators.
+- PyCorrFit (~.csv): This is a simple .csv file format.        
 
 #### Fitting:
 - Least squares fit using the Levenberg-Marquard algorithm
