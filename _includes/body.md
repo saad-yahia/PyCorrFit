@@ -8,7 +8,7 @@ PyCorrFit comes with several built-in model functions, covering a wide range of
 applications in standard confocal FCS. In addition, it contains equations dealing
 with different excitation geometries like total internal reflection (TIR). For more
 information, visit the official homepage at
-[http://pycorrfit.craban.de](http://pycorrfit.craban.de).
+http://pycorrfit.craban.de.
 
 
 ** Supported Operating Systems: **
