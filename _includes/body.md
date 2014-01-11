@@ -48,8 +48,6 @@ with different excitation geometries like total internal reflection (TIR).
 
 [ ![scrot](./images/Screenshot_Main.png) ](./images/Screenshot_Main.png "Main Window")
 
-[ ![scrot](./images/Screenshot_Background_correction.png) ](./images/Screenshot_Background_correction.png "Background correction")
-
 [ ![scrot](./images/Screenshot_Graphics_output.png) ](./images/Screenshot_Graphics_output.png "Graphics  output  (matplotlib)")
 
 [ ![scrot](./images/Screenshot_Select_curves.png) ](./images/Screenshot_Select_curves.png "Curve  selection")
