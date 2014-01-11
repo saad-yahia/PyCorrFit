@@ -44,7 +44,9 @@ with different excitation geometries like total internal reflection (TIR).
 - Update helper checks for new program version
 
 #### Screenshots
-[ ![scrot](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png "Desktop")
+[ ![scrot](./images/Screenshot_Desktop_Win.png) ](./images/Screenshot_Desktop.png "Desktop (Windows)")
+
+[ ![scrot](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png "Desktop (Ubuntu)")
 
 [ ![scrot](./images/Screenshot_Main.png) ](./images/Screenshot_Main.png "Main Window")
 
