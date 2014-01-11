@@ -1,4 +1,4 @@
-﻿In current biomedical research, fluorescence correlation spectroscopy (FCS) is  applied
+In current biomedical research, fluorescence correlation spectroscopy (FCS) is  applied
 to characterize molecular dynamic processes in vitro and in living cells.  Commercial
 FCS setups only permit data analysis that is limited to  a specific instrument by
 the use of in-house file formats or a  finite number of implemented correlation
@@ -45,6 +45,8 @@ with different excitation geometries like total internal reflection (TIR).
 
 #### Screenshots
 [ ![scrot](./images/Screenshot_Desktop_Win.png) ](./images/Screenshot_Desktop_Win.png "Desktop (Windows)")
+
+[ ![scrot](./images/Screenshot_Desktop_Mac.png) ](./images/Screenshot_Desktop_Mac.png "Desktop (Mac OSx)")
 
 [ ![scrot](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png "Desktop (Ubuntu)")
 
