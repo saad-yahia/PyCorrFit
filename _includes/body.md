@@ -50,6 +50,8 @@ with different excitation geometries like total internal reflection (TIR).
 
 [ ![scrot](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png "Desktop (Ubuntu)")
 
+[ ![scrot](./images/Screenshot_Desktop_Raspbian_Jessie.png) ](./images/Screenshot_Desktop_Raspbian_Jessie.png "PyCorrFit on the Raspberry Pi!")
+
 [ ![scrot](./images/Screenshot_Main.png) ](./images/Screenshot_Main.png "Main Window")
 
 [ ![scrot](./images/Screenshot_Graphics_output.png) ](./images/Screenshot_Graphics_output.png "Graphics  output  (matplotlib)")
