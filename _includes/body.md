@@ -1,4 +1,4 @@
-﻿In current biomedical research, fluorescence correlation spectroscopy (FCS) is  applied
+In current biomedical research, fluorescence correlation spectroscopy (FCS) is  applied
 to characterize molecular dynamic processes in vitro and in living cells.  Commercial
 FCS setups only permit data analysis that is limited to  a specific instrument by
 the use of in-house file formats or a  finite number of implemented correlation
@@ -9,10 +9,11 @@ applications in standard confocal FCS. In addition, it contains equations dealin
 with different excitation geometries like total internal reflection (TIR).
 
 #### Supported Operating Systems
-- Windows XP/7 (binary and source code)  
-- Ubuntu Linux 12.04 (binary and source code) 
-- MacOSx 10.6+ (binary and source code) 
-- Any other system with a Python 2.7 installation (source code only) 
+- Any operating system with a Python 2.7 installation
+- Binary support for:
+  - Windows XP or higher
+  - MacOSx 10.6 or higher
+  - Ubuntu Linux [LTS](https://wiki.ubuntu.com/LTS)
 
 #### Supported Filetypes
 - ALV-6000 correlator files (~.ALV) (single and multiple runs / tested in autocorrelation mode) 
@@ -43,11 +44,15 @@ with different excitation geometries like total internal reflection (TIR).
 - Update helper checks for new program version
 
 #### Screenshots
-[ ![scrot](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png "Desktop")
+[ ![scrot](./images/Screenshot_Desktop_Win.png) ](./images/Screenshot_Desktop_Win.png "Desktop (Windows)")
+
+[ ![scrot](./images/Screenshot_Desktop_Mac.png) ](./images/Screenshot_Desktop_Mac.png "Desktop (Mac OSx)")
+
+[ ![scrot](./images/Screenshot_Desktop.png) ](./images/Screenshot_Desktop.png "Desktop (Ubuntu)")
+
+[ ![scrot](./images/Screenshot_Desktop_Raspbian_Jessie.png) ](./images/Screenshot_Desktop_Raspbian_Jessie.png "PyCorrFit on the Raspberry Pi!")
 
 [ ![scrot](./images/Screenshot_Main.png) ](./images/Screenshot_Main.png "Main Window")
-
-[ ![scrot](./images/Screenshot_Background_correction.png) ](./images/Screenshot_Background_correction.png "Background correction")
 
 [ ![scrot](./images/Screenshot_Graphics_output.png) ](./images/Screenshot_Graphics_output.png "Graphics  output  (matplotlib)")
 
