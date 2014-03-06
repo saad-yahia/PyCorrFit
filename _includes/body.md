@@ -32,12 +32,16 @@ with different excitation geometries like total internal reflection (TIR).
 - Averaging of curves
 - Background correction
 - Batch processing
-- Curve selection
+- Overlay tool
 - Global fitting (shared parameters)
 - Parameter simulation
 - Session management
+- User-defined model functions
+- Plot export using matplotlib (bitmap or vector graphics)
+
 
 #### Verbosity
+- Detailed documentation
 - Includes python shell access
 - Documented and structured source code
 - Information window shows all parameters of a measurement
