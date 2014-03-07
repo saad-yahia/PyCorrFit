@@ -23,7 +23,8 @@ with different excitation geometries like total internal reflection (TIR).
 - PyCorrFit (~.csv)  
 
 #### Fitting
-- Pre-defined model functions (confocal FCS, TIR-FCS, Triplet blinking, multiple components)
+- Pre-defined model functions  
+  (confocal FCS, TIR-FCS, Triplet blinking, multiple components)
 - Import of user-defined model functions 
 - Global fitting across multiple model functions or data sets
 - Least squares fit using the Levenberg-Marquard algorithm
@@ -45,9 +46,9 @@ with different excitation geometries like total internal reflection (TIR).
 #### Verbosity
 - Detailed [documentation](https://github.com/paulmueller/PyCorrFit/raw/master/PyCorrFit_doc.pdf)
 - Included Python shell access
-- Documented and structured [source](https://github.com/paulmueller/PyCorrFit/tree/master/src) code
+- Documented and structured [source code](https://github.com/paulmueller/PyCorrFit/tree/master/src)
 - Access to all internal parameters of a measurement
-- Update helper to for new program version
+- Update helper to check for new program version
 - Open source software; anyone can contribute
 
 
