@@ -17,7 +17,7 @@ with different excitation geometries like total internal reflection (TIR).
 
 #### Supported Filetypes
 - [ALV-6000](http://www.alvgmbh.de/) correlator files (~.ASC)  
-  (single and multiple runs / tested in autocorrelation mode) 
+  (single and multiple runs / tested in autocorrelation mode)
 - [Zeiss](http://microscopy.zeiss.com/microscopy/en_us/products/confocal-microscopes.html) Confocor3 files (~.fcs)
 - [Correlator.com](http://correlator.com/) Flex correlators (~.SIN) 
 - PyCorrFit (~.csv)  
