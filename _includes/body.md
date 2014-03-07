@@ -16,7 +16,7 @@ with different excitation geometries like total internal reflection (TIR).
   - Ubuntu Linux [LTS](https://wiki.ubuntu.com/LTS)
 
 #### Supported Filetypes
-- [ALV-6000](http://www.alvgmbh.de/) correlator files (~.ALV)  
+- [ALV-6000](http://www.alvgmbh.de/) correlator files (~.ASC)  
   (single and multiple runs / tested in autocorrelation mode) 
 - [Zeiss](http://microscopy.zeiss.com/microscopy/en_us/products/confocal-microscopes.html) Confocor3 files (~.fcs)
 - [Correlator.com](http://correlator.com/) Flex correlators (~.SIN) 
