@@ -16,10 +16,10 @@ with different excitation geometries like total internal reflection (TIR).
   - Ubuntu Linux [LTS](https://wiki.ubuntu.com/LTS)
 
 #### Supported Filetypes
-- ALV-6000 correlator files (~.ALV) (single and multiple runs / tested in autocorrelation mode) 
-- Confocor3 files (~.fcs)
-- Correlator.com (~.SIN): Those are files usually created by e.g. Flex02-01D correlators.
-- PyCorrFit (~.csv): This is a simple .csv file format.        
+- [ALV-6000](http://www.alvgmbh.de/) correlator files (~.ALV) (single and multiple runs / tested in autocorrelation mode) 
+- [Zeiss](http://microscopy.zeiss.com/microscopy/en_us/products/confocal-microscopes.html) Confocor3 files (~.fcs)
+- [Correlator.com](http://correlator.com/) Flex correlators (~.SIN) 
+- PyCorrFit (~.csv)  
 
 #### Fitting
 - Least squares fit using the Levenberg-Marquard algorithm
@@ -41,10 +41,10 @@ with different excitation geometries like total internal reflection (TIR).
 
 
 #### Verbosity
-- Detailed documentation
+- Detailed [documentation](https://github.com/paulmueller/PyCorrFit/raw/master/PyCorrFit_doc.pdf)
 - Includes python shell access
-- Documented and structured source code
-- Information window shows all parameters of a measurement
+- Documented and structured [source](https://github.com/paulmueller/PyCorrFit/tree/master/src) code
+- Access to all internal parameters of a measurement
 - Update helper checks for new program version
 
 #### Screenshots
