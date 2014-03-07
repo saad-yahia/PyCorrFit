@@ -43,7 +43,7 @@ with different excitation geometries like total internal reflection (TIR).
 
 #### Verbosity
 - Detailed [documentation](https://github.com/paulmueller/PyCorrFit/raw/master/PyCorrFit_doc.pdf)
-- Includes python shell access
+- Includes Python shell access
 - Documented and structured [source](https://github.com/paulmueller/PyCorrFit/tree/master/src) code
 - Access to all internal parameters of a measurement
 - Update helper checks for new program version
