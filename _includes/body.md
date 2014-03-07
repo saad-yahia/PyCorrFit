@@ -24,7 +24,7 @@ with different excitation geometries like total internal reflection (TIR).
 
 #### Fitting
 - Pre-defined model functions  
-  (confocal FCS, TIR-FCS, Triplet blinking, multiple components)
+  (confocal FCS, TIR-FCS, triplet blinking, multiple components)
 - Import of user-defined model functions 
 - Global fitting across multiple model functions or data sets
 - Least squares fit using the Levenberg-Marquard algorithm
