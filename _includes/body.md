@@ -23,7 +23,7 @@ with different excitation geometries like total internal reflection (TIR).
 - PyCorrFit (~.csv)  
 
 #### Fitting
-- Pre-defined model functions  
+- Pre-defined model functions    
   (confocal FCS, TIR-FCS, triplet blinking, multiple components)
 - Import of user-defined model functions 
 - Global fitting across multiple model functions or data sets
@@ -39,12 +39,13 @@ with different excitation geometries like total internal reflection (TIR).
 - Overlay tool to identify outliers
 - Fast simulation of model parameter behavior
 - Session management
-- High quality plot export using LaTeX (bitmap or vector graphics)
+- High quality plot export using LaTeX  
+  (bitmap or vector graphics)
 
 
 #### Verbosity
 - Detailed [documentation](https://github.com/paulmueller/PyCorrFit/raw/master/PyCorrFit_doc.pdf)
-- Public [Wiki](https://github.com/paulmueller/PyCorrFit/wiki)
+- Public [wiki](https://github.com/paulmueller/PyCorrFit/wiki)
 - Documented and structured [source code](https://github.com/paulmueller/PyCorrFit/tree/master/src)
 - Sophisticated [bug/feature tracking system](https://github.com/paulmueller/PyCorrFit/issues?state=open)
 - Included Python shell access
