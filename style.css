@@ -1,11 +1,6 @@
 /* CSS Document */
-body,td,th {
-	color: #000000;
-}
-<!--
 body {
-    
-	background-color:"#f8f8f8"
+	background-color:"#ffffff"
 	font-family:"DejaVu Sans";
 	margin-left: 5px;
 	margin-top: 5px;
@@ -20,7 +15,7 @@ p {
 }
 a {
 	font-family:"Serifa BT, Serifa Th BT";
-	font-size: 15px;
+	font-size: 16px;
 	color: #009A58;
 }
 a:link {
@@ -40,8 +35,9 @@ text-decoration: none;
 color: #000000;
 }
 
-.citation, blockquote {
-	margin-left:20px;
+
+table, tbody, blockquote {
+    margin-left:20px;
     margin-right:0px;
     background-color: #f9fdf9;
     width: 500px;
@@ -80,4 +76,5 @@ footer {
 }
 
 img[alt=scrot] { width: 500px; }
+
 
