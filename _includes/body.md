@@ -39,7 +39,6 @@ with different excitation geometries like total internal reflection (TIR).
 - Overlay tool to identify outliers
 - Fast simulation of model parameter behavior
 - Session management
-- User-defined model functions
 - High quality plot export using LaTeX (bitmap or vector graphics)
 
 
