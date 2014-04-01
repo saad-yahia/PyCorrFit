@@ -15,21 +15,22 @@ with different excitation geometries like total internal reflection (TIR).
   - MacOSx 10.6 or higher
   - Ubuntu Linux [LTS](https://wiki.ubuntu.com/LTS)
 
+
 #### Supported Filetypes
-- [ALV-6000](http://www.alvgmbh.de/) correlator files (~.ASC)  
-  (single and multiple runs / tested in autocorrelation mode)
-- [Zeiss](http://microscopy.zeiss.com/microscopy/en_us/products/confocal-microscopes.html) Confocor3 files (~.fcs)
-- [Correlator.com](http://correlator.com/) Flex correlators (~.SIN) 
+- [ALV](http://www.alvgmbh.de/) correlator files (~.ASC)  
+- [Zeiss](http://microscopy.zeiss.com/microscopy/en_us/products/confocal-microscopes.html) ConfoCor3 files (~.fcs)
+- [Correlator.com](http://correlator.com/) (Flex) correlators (~.SIN) 
 - PyCorrFit (~.csv)  
+- PyCorrFit session (~.pcfs)  
+
 
 #### Fitting
 - Pre-defined model functions    
   (confocal FCS, TIR-FCS, triplet blinking, multiple components)
 - Import of user-defined model functions 
 - Global fitting across multiple model functions or data sets
-- Least squares fit using the Levenberg-Marquard algorithm
+- Least squares fit using Levenberg-Marquard, Simplex, and more
 - Weighted fitting with standard deviation
-- Parameter error estimation 
 
 
 #### Tools and Features
