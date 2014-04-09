@@ -44,7 +44,7 @@ with different excitation geometries like total internal reflection (TIR).
   (bitmap or vector graphics)
 
 
-#### Verbosity
+#### Docs
 - Detailed [documentation](https://github.com/paulmueller/PyCorrFit/raw/master/PyCorrFit_doc.pdf)
 - Public [wiki](https://github.com/paulmueller/PyCorrFit/wiki)
 - Documented and structured [source code](https://github.com/paulmueller/PyCorrFit/tree/master/src)
