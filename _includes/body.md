@@ -56,6 +56,18 @@ with different excitation geometries like total internal reflection (TIR).
 - Open source software; anyone can contribute
 
 
+#### How to cite
+PyCorrFit is described in
+
+|      |
+|:-----|
+|Müller, P., Schwille, P., and Weidemann, T. *PyCorrFit - generic data evaluation for fluorescence correlation spectroscopy* Bioinformatics 2014. DOI:[10.1093/bioinformatics/btu328](http://dx.doi.org/10.1093/bioinformatics/btu328)|
+
+Download citation: 
+- [BibTeX](./cite/PyCorrFit.bib)
+- [Other](http://bioinformatics.oxfordjournals.org/citmgr?gca=bioinfo%3Bbtu328v1)
+
+
 #### Screenshots
 [ ![scrot](./images/Screenshot_Desktop_Win.png) ](./images/Screenshot_Desktop_Win.png "Desktop (Windows)")
 
