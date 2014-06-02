@@ -9,12 +9,10 @@ applications in standard confocal FCS. In addition, it contains equations dealin
 with different excitation geometries like total internal reflection (TIR).
 
 #### Supported Operating Systems
+- MacOSx 10.6.8 and higher
+- Windows XP and higher
+- Ubuntu Linux [LTS](https://wiki.ubuntu.com/LTS)
 - Any operating system with a Python 2.7 installation
-- Binary support for:
-  - Windows XP or higher
-  - MacOSx 10.6 or higher
-  - Ubuntu Linux [LTS](https://wiki.ubuntu.com/LTS)
-
 
 #### Supported Filetypes
 - [ALV](http://www.alvgmbh.de/) correlators (~.ASC)  
