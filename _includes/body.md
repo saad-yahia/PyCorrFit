@@ -12,7 +12,7 @@ with different excitation geometries like total internal reflection (TIR).
 - MacOSx 10.6.8 and higher
 - Windows XP and higher
 - Ubuntu Linux [LTS](https://wiki.ubuntu.com/LTS)
-- Any operating system with a Python 2.7 installation
+- Any operating system with a Python 2.7 installation (via pip)
 
 #### Supported Filetypes
 - [ALV](http://www.alvgmbh.de/) correlators (~.ASC)  
