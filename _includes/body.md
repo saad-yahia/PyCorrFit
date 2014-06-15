@@ -14,12 +14,14 @@ with different excitation geometries like total internal reflection (TIR).
 - Ubuntu Linux [LTS](https://wiki.ubuntu.com/LTS)
 - Any operating system with a Python 2.7 installation (via pip)
 
+
 #### Supported Filetypes
 - [ALV](http://www.alvgmbh.de/) correlators (~.ASC)  
-- [Zeiss](http://microscopy.zeiss.com/microscopy/en_us/products/confocal-microscopes.html) ConfoCor3 (~.fcs)
 - [Correlator.com](http://correlator.com/) (Flex) correlators (~.SIN) 
-- PyCorrFit (~.csv)  
-- PyCorrFit session (~.pcfs)  
+- [Zeiss](http://microscopy.zeiss.com/microscopy/en_us/products/confocal-microscopes.html) ConfoCor3 (~.fcs)
+- PicoQuant (~.pt3) as implemented by Dominic Waithe
+- PyCorrFit (~.csv)
+- PyCorrFit session (~.pcfs)
 
 
 #### Fitting
