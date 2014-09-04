@@ -61,7 +61,7 @@ PyCorrFit is described in
 
 |      |
 |:-----|
-|Müller, P., Schwille, P., and Weidemann, T. *PyCorrFit - generic data evaluation for fluorescence correlation spectroscopy*. Bioinformatics 2014. DOI:[10.1093/bioinformatics/btu328](http://dx.doi.org/10.1093/bioinformatics/btu328)|
+|Müller, P., Schwille, P., and Weidemann, T. (2014) *PyCorrFit - generic data evaluation for fluorescence correlation spectroscopy*. Bioinformatics 30(17):2532-2533. DOI:[10.1093/bioinformatics/btu328](http://dx.doi.org/10.1093/bioinformatics/btu328)|
 
 Download citation: 
 - [BibTeX](./cite/PyCorrFit.bib)
