@@ -65,7 +65,7 @@ PyCorrFit is described in
 
 Download citation: 
 - [BibTeX](./cite/PyCorrFit.bib)
-- [Other](http://bioinformatics.oxfordjournals.org/citmgr?gca=bioinfo%3Bbtu328v1)
+- [Other](http://bioinformatics.oxfordjournals.org/citmgr?gca=bioinfo%3B30%2F17%2F2532)
 
 
 #### Screenshots
