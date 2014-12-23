@@ -48,7 +48,7 @@ with different excitation geometries like total internal reflection (TIR).
 - [Tutorial](https://github.com/paulmueller/PyCorrFit/wiki/Tutorial)
 - Detailed [documentation](https://github.com/paulmueller/PyCorrFit/wiki/PyCorrFit_doc.pdf)
 - Public [wiki](https://github.com/paulmueller/PyCorrFit/wiki)
-- Documented and structured [source code](https://github.com/paulmueller/PyCorrFit/tree/master/src)
+- Documented and structured [source code](https://github.com/paulmueller/PyCorrFit/tree/master)
 - Sophisticated [bug/feature tracking system](https://github.com/paulmueller/PyCorrFit/issues?state=open) by GitHub
 - Included Python shell access
 - Access to all internal parameters of a measurement
