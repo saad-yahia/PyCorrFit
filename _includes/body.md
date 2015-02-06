@@ -19,7 +19,7 @@ with different excitation geometries like total internal reflection (TIR).
 - [ALV](http://www.alvgmbh.de/) correlators (~.ASC)  
 - [Correlator.com](http://correlator.com/) (Flex) correlators (~.SIN) 
 - [Zeiss](http://microscopy.zeiss.com/microscopy/en_us/products/confocal-microscopes.html) ConfoCor3 (~.fcs)
-- [PicoQuant](http://www.picoquant.com/) (~.pt3) [as implemented by Dominic Waithe](https://github.com/dwaithe/FCS_viewer)
+- [PicoQuant](http://www.picoquant.com/) (~.pt3) [as implemented by Dominic Waithe](https://github.com/dwaithe/FCS_point_correlator)
 - PyCorrFit (~.csv)
 - PyCorrFit session (~.pcfs)
 
